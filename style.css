@@ -1,0 +1,13 @@
+html{
+    background-color: red ;
+    font-family: 'IBM Plex Serif', serif;
+}
+h1 {
+    font-size: 65px;
+    color: green;
+    letter-spacing: 5px;
+    line-height: 60px;
+    font-weight: 600;
+    font-style: italic;
+    margin: 0;
+}
